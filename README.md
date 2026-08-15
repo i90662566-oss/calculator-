@@ -1,2 +1,2 @@
 # calculator-
-I write It on python, please write about issues if any,in program witch I will create later
+I write It on python, please write about issues if any, write it in cli program witch I will create later
